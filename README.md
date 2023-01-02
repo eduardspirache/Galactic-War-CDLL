@@ -15,7 +15,7 @@ The following commands are supported:
 # Examples
 Here are some examples of how to use the program:
 
-> 9
+> 9 <br>
 > ADD Earth 0 3 <br>
 The planet Earth has joined the galaxy. <br>
 > ADD Mars 1 2 <br>
